@@ -3,6 +3,4 @@ certifi==2017.7.27.1
 chardet==3.0.4
 idna==2.5
 requests==2.18.2
-six==1.10.0
 urllib3==1.22
-webencodings==0.5.1
